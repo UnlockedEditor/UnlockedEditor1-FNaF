@@ -14,3 +14,4 @@ This project is not open source, but is source-available
 
 The source code is available under the **PolyForm Noncommercial License**.
 You are free to review and learn from the code as long as your use complies with the terms of that license.
+https://github.com/UnlockedEditor/UnlockedEditor1-FNaF/blob/main/PolyForm-Noncommercial-1.0.0.txt
