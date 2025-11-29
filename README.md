@@ -4,6 +4,7 @@ This repository contains the source code of the first version of **UnlockedEdito
 Although **UnlockedEditor 2** is significantly different today, this original codebase can still help you understand the early structure of the project and set up your own menu system.
 
 ## Notes
+This has been built on UE4.27
 Please keep in mind that this was my first attempt at building something like this. The code is rough and experimental, but it is preserved here for reference and learning.
 
 - Some proprietary components have been removed from this repository.
